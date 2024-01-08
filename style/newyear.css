@@ -245,8 +245,8 @@ section {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 1px;
-    background-color: lightgrey;
+    padding: 10px;
+    background-color: pink;
 
 }
 .form-title h1{
@@ -283,4 +283,42 @@ section {
     color: #ffff;
     border: 0;
     border-radius: 0 50px 50px 0;
+}
+.footer{
+    border: 1px solid black;
+    background-color: #070211;
+    background-size: cover;
+   
+}
+.footer-top{
+    padding: 2%;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+}
+hr{
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+}
+.footer-medium{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.footer-medium div{
+    margin: 1%;
+}
+footer{
+    margin-top: 5%;
+}
+.footer-bottom{
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+}
+.footer-bottom a{
+    text-decoration: none;
+    color: #FFFFFF;
 }
