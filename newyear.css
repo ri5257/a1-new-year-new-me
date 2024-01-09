@@ -322,3 +322,16 @@ footer{
     text-decoration: none;
     color: #FFFFFF;
 }
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact img{
+    width: 17px;
+    height: 17px;
+    top: 4px;
+    left: 3px;
+    border: 1.5px;
+    margin: 5%;
+}
