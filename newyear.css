@@ -216,12 +216,18 @@ section {
 .Sale h6{
     line-height: 1%;
 }
-.Discount{
-    background-image:url('./Pic/Rectangle\ 2.png');
-    border-radius: 20px;
-    background-repeat: no-repeat;
-    background-position: bottom;
+
+.group {
+        margin-right: 150px;
 }
+
+.Discount{
+    background-image:url('./Pic/Rectangle\ 2.png'), url(./Pic/Rectangle\ 1.png);
+    background-position: bottom, right top;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+   
 .card {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
