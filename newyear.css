@@ -194,6 +194,34 @@ section {
     display: inline-block;
 }
 
+.Sale{
+    text-align: center;
+
+}
+.Sale-p{
+    justify-content: center;
+   margin-bottom: 5px;
+   text-align: center;
+}
+.Sale h1{
+   
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 1%;
+    text-align: center;
+    letter-spacing: 0em;
+
+     
+}
+.Sale h6{
+    line-height: 1%;
+}
+.Discount{
+    background-image:url('./Pic/Rectangle\ 2.png');
+    border-radius: 20px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
 .card {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
