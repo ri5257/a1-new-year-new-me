@@ -222,7 +222,7 @@ section {
 }
 
 .Discount{
-    background-image:url('./Pic/Rectangle\ 2.png'),url(../Pic/Rectangle\ 1.png);
+    background-image:url('./Pic/Rectangle\ 2.png'),url(./Pic/Rectangle\ 1.png);
     background-position: bottom, right top;
     background-repeat: no-repeat;
     border-radius: 20px;
