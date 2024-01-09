@@ -9,7 +9,7 @@ section {
 }
 
 .top-banner {
-    background-image: url(/Pic/Banner\ Image.png);
+    background-image: url(./Pic/Banner\ Image.png);
     background-repeat: no-repeat;
     border-radius: 20px;
     height: 600px;
