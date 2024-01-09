@@ -326,7 +326,6 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-    display: block;
 }
 .contact img{
     width: 17px;
@@ -334,5 +333,5 @@ footer{
     top: 4px;
     left: 3px;
     border: 1.5px;
-    margin: 5%;
+    
 }
