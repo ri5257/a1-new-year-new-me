@@ -9,7 +9,7 @@ section {
 }
 
 .top-banner {
-    background-image: url("/resources/Banner\ Image.png");
+    background-image: url(/Pic/Banner\ Image.png);
     background-repeat: no-repeat;
     border-radius: 20px;
     height: 600px;
@@ -76,7 +76,7 @@ section {
 }
 
 .midnight-part {
-    background-image: url('/resources/Vectorrr.png');
+    background-image: url(/Pic/Vectorrr.png);
     display: flex;
     justify-content: center;
     align-items: center;
